@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Sridhar K S 👋
 
-<!--
-**sriks023/sriks023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MBA graduate with a passion for Business Analysis, marketing, and product strategy.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+-   🚀 I'm currently focusing on **Business Analyst** and **Market Analyst** roles, eager to apply my analytical and strategic thinking.
+-   🌱 I'm actively diving into **data analysis tools** to enhance my skills and capability in extracting actionable insights.
+-   💡 I'm passionate about **business, product, and marketing analysis projects**, always looking for opportunities to understand markets and drive growth.
+
+---
+
+## My Skills
+
+-   **Programming Basics:** Python, R
+-   **Learning:** SQL
+-   **Data Visualization:** Tableau, Power BI, Excel
+-   **Marketing Tools:** Social Media Analytics
+
+---
+
+## Projects
+
+I'm currently working on exciting new projects! Check back soon for updates.
+
+---
+
+## GitHub Stats
+
+Here are some of my GitHub statistics. These dynamically update to reflect my activity!
+
+[![Sridhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriks023&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Sridhar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sriks023&theme=dark)](https://git.io/streak-stats)
+
+***Note:** Remember to replace `YOUR_GITHUB_USERNAME` in the above links with your actual GitHub username to display your stats correctly.*
+
+---
+
+## Connect With Me
+
+-   [LinkedIn](https://www.linkedin.com/in/sriks023)
+-   [Twitter](https://twitter.com/sriks023)
+-   **Email:** sridks023@gmail.com
+
+---
