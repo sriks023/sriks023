@@ -35,14 +35,13 @@ Here are some of my GitHub statistics. These dynamically update to reflect my ac
 
 [![Sridhar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sriks023&theme=dark)](https://git.io/streak-stats)
 
-***Note:** Remember to replace `YOUR_GITHUB_USERNAME` in the above links with your actual GitHub username to display your stats correctly.*
 
 ---
 
-## Connect With Me
+### Connect With Me
 
--   [LinkedIn](https://www.linkedin.com/in/sriks023)
--   [Twitter](https://twitter.com/sriks023)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriks023)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sriks023)
 -   **Email:** sridks023@gmail.com
 
 ---
