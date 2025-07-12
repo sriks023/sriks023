@@ -40,6 +40,12 @@
 
 I'm currently working on exciting new projects! Check back soon for updates.
 
+## Case Studies
+
+Here are some of my case studies. Click to view or download!
+
+* **[Case Study 1: Are starting Yoga Studio? (PPT/PDF)]**(YOUR_PPT_CASE_STUDY_URL)
+* **[Case Study 2: Blue print for before you start FMCG Food company (PDF/PPT)]**(https://github.com/sriks023/sriks023/blob/main/Yoga%20Bar.pptx)
 
 ---
 
