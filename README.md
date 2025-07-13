@@ -43,7 +43,11 @@ Here are some of my recently completed analytics projects:
 * **[Project Title: Books Reading Dashboard Creation](https://github.com/sriks023/Books-Dashboard-Udemy)**
 * **[Project Title: Store Data & Dashboard Creation](https://github.com/sriks023/Store-Data-Dashboard)**
 ---
+## Research Papers
 
+Here are some of my research papers. Click to view or download!
+
+* **[Research Paper Title: Hand Loom and Power Loom Industry: Can there be a synergy of Technology and Tradition? ]**(https://github.com/sriks023/Hand-loom-Power-loom) 
 ---
 
 ## Case Studies
