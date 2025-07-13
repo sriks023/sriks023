@@ -40,6 +40,7 @@
 Here are some of my recently completed analytics projects:
 
 * **[Project Title: Telugu & Hindi Movies Data Analysis](https://github.com/sriks023/Hindi-Telugu-Movie-Analysis)**
+* **[Project Title: Books Reading Dashboard](https://github.com/sriks023/Books-Dashboard-Udemy)**
 
 ---
 
