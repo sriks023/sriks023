@@ -35,10 +35,15 @@
 ---
 
 
-## Projects
+## My Latest Analytics Projects
 
+Here are some of my recently completed analytics projects:
 
-I'm currently working on exciting new projects! Check back soon for updates.
+* **[Project Title: Telugu & Hindi Movies Data Analysis](https://github.com/sriks023/Hindi-Telugu-Movie-Analysis)**
+
+---
+
+---
 
 ## Case Studies
 
