@@ -56,6 +56,7 @@ Here are some of my case studies. Click to view or download!
 
 * **[Case Study 1: Are you starting Yoga Studio?](https://github.com/sriks023/sriks023/blob/main/Yoga%20studio%20case%20study.pptm)** 📄
 * **[Case Study 2: Blue print for before you start FMCG Food company](https://github.com/sriks023/sriks023/blob/main/Yoga%20Bar.pptx)** 📄
+* **[Case Study 3: Marketing Concepts & Examples (Hand Written)](https://github.com/sriks023/sriks023/blob/main/SRM%20POINTS%20frm%20Module%202.pdf)** 📄
 ---
 
 
