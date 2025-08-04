@@ -43,6 +43,7 @@ Here are some of my recently completed analytics projects:
 * **[Project Title: Books Reading Dashboard Creation](https://github.com/sriks023/Books-Dashboard-Udemy)**
 * **[Project Title: Store Data & Dashboard Creation](https://github.com/sriks023/Store-Data-Dashboard)**
 * **[Project Title: HR Analytics & Dashboard Creation](https://github.com/sriks023/Power-BI-HR-Attrition-Analysis)**
+* **[Project Title: IPL Data Analysis from 2008 to 2025 & Dashboard Creation ](https://github.com/sriks023/IPL-Analysis-from-2008-to-2025)**
 ---
 ## Research Papers
 
