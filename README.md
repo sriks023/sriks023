@@ -61,22 +61,13 @@ Here are some of my case studies. Click to view or download!
 * **[Case Study 2: Blue print for before you start FMCG Food company](https://github.com/sriks023/sriks023/blob/main/Yoga%20Bar.pptx)** 📄
 * **[Case Study 3: Marketing Concepts & Examples (Hand Written)](https://github.com/sriks023/sriks023/blob/main/SRM%20POINTS%20frm%20Module%202.pdf)** 📄
 ---
-
-
-## GitHub Stats
-
-
-Here are some of my GitHub statistics. These dynamically update to reflect my activity!
-
-
-[![Sridhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriks023&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Sridhar's GitHub Streak](https://readme-streak-stats.herokuapp.com/?user=sriks023&theme=dark)](https://git.io/streak-stats)
-
-
+## 📜 Certifications
+- **Gen AI Powered Data Analytics** - TATA Forage
+- **Power BI Data Visualization** - Forage
+- **Project Management** - Springboard
+- **Tableau** - Udemy
+- **Python Programming** - Udemy
 ---
-
 
 ## Connect With Me
 
