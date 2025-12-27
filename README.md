@@ -52,6 +52,7 @@ Here are some of my recently completed analytics projects:
 
 Here are some of my research papers. Click to view or download!
 
+* **[Research Paper Title: What's your Mental Health data is telling? ](https://github.com/sriks023/Research-Paper-2)**
 * **[Research Paper Title: Hand Loom and Power Loom Industry: Can there be a synergy of Technology and Tradition? ](https://github.com/sriks023/Hand-loom-Power-loom)** 
 ---
 
