@@ -39,6 +39,7 @@
 
 Here are some of my recently completed analytics projects:
 
+* **[Project Title: Marketing Analysis of E-Commerce Sports Shop](https://github.com/sriks023/Marketing-Analytics-of-E-Commerce-Sports-Shop)**
 * **[Project Title: Customer Response Prediction Project](https://github.com/sriks023/Camping-Marketing-Analysis-)**
 * **[Project Title: Built a personal AI agent to boost productivity. ](https://github.com/sriks023/AI-Resume-Tailoring-Agent/tree/main)**
 * **[Project Title: Telugu & Hindi Movies Data Analysis](https://github.com/sriks023/Hindi-Telugu-Movie-Analysis)**
